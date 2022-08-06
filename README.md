@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivekanand Pandey</h1>
+![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)<h1 align="center" height="10">Hi 👋, I'm Vivekanand Pandey</h1>
 <h3 align="center">A passionate Django developer and Problem Solver from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&usqp=CAU">
 - 🔭 I’m currently working on [Data Structures and Algorithm](https://www.codingninjas.com/codestudio/profile/059f0966-ef9a-45a7-bec1-2167a14765ce)
