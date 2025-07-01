@@ -77,6 +77,7 @@ Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Python Developer with a passion
 - [LinkedIn](https://www.linkedin.com/in/vivekanand-pandey-b970491b0/)
 - [GitHub](https://github.com/vivekanand321)
 - [LeetCode](https://leetcode.com/u/vivekanand_pandey/)
+- [CodingNinja](https://www.naukri.com/code360/profile/059f0966-ef9a-45a7-bec1-2167a14765ce)
 
 ---
 
