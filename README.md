@@ -1,16 +1,16 @@
-# ![Vivekanand Pandey](https://your-image-link-here.com)
 
-### Full Stack Developer | Django Expert | Cloud & DevOps Enthusiast | AI/ML Explorer | Problem Solver
+
+### Full Stack Python Developer | Fastapi & DRF Expert | Cloud & DevOps Enthusiast | AI/ML Explorer | Problem Solver
 
 ---
 
-Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Developer with a passion for creating impactful solutions using **Django**, **FastAPI**, **AWS**, **Machine Learning**, and **DevOps**. I have experience in developing scalable, high-performance applications and working with cutting-edge technologies. I am constantly learning and striving to improve my skills, especially in **Generative AI** and **Cloud Technologies**.
+Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Python Developer with a passion for creating impactful solutions using **Django**, **FastAPI**, **AWS**, **Machine Learning**, and **DevOps**. I have experience in developing scalable, high-performance applications and working with cutting-edge technologies. I am constantly learning and striving to improve my skills, especially in **Generative AI** and **Cloud Technologies**.
 
 ---
 
 ## 🌐 About Me
 - 🔭 Currently working as a **Full Stack Developer** at [MarsDevs Technologies](https://www.marsdevs.com) and developing Generative AI services using **FastAPI** and **Node.js**, hosted on **AWS**.
-- 🌱 Learning about **AWS**, **Deep Learning**, and **Generative AI** tools like **LangChain** and **LangGraph**.
+- 🌱 Learning and hands-on **AWS**, **Deep Learning**, and **Generative AI** tools like **LangChain** and **LangGraph**.
 - 💬 Ask me about **Data Structures & Algorithms**, **Django**, **Machine Learning**, and **Cloud Infrastructure**.
 - 📫 You can reach me at: [pandeyvivek203@gmail.com](mailto:pandeyvivek203@gmail.com)
 - 🌍 Check out my work: [Capitall.io](https://www.capitall.io) | [Trairoute App](https://apps.apple.com/in/app/trairoute/id6481530765)
@@ -18,7 +18,7 @@ Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Developer with a passion for cr
 ---
 
 ## 📄 My Resume
-[View my detailed resume here](https://drive.google.com/file/d/1LpIY6HN7C_zyf7ACKh_KEV_pghUOh-WD/view?usp=sharing)
+[View my detailed resume here](https://drive.google.com/file/d/1yfZQ66TSp6RIZl7a8Aj-JN6wZQHQgZLi/view?usp=sharing)
 
 ---
 
@@ -47,7 +47,7 @@ Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Developer with a passion for cr
 
 ## 💼 Experience
 
-### **MarsDevs Technologies** (Oct 2022 – Present) | **Full Stack Developer** | Pune, Maharashtra
+### **MarsDevs Technologies** (Oct 2022 – July 2025) | **Full Stack Developer** | Pune, Maharashtra
 - Developed and deployed **Generative AI services** using **FastAPI** and **Node.js**, hosted on **AWS**.
 - Integrated **RESTful APIs** and built dynamic frontends using **React**, **HTML**, **CSS**, and **JavaScript**.
 - Collaborated across cross-functional teams in agile environments to deliver robust product features.
