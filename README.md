@@ -47,7 +47,7 @@ Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Python Developer with a passion
 
 ## 💼 Experience
 
-### **MarsDevs Technologies** (Oct 2022 – July 2025) | **Full Stack Developer** | Pune, Maharashtra
+### **MarsDevs Technologies** (Oct 2022 – present) | **Full Stack Developer** | Pune, Maharashtra
 - Developed and deployed **Generative AI services** using **FastAPI** and **Node.js**, hosted on **AWS**.
 - Integrated **RESTful APIs** and built dynamic frontends using **React**, **HTML**, **CSS**, and **JavaScript**.
 - Collaborated across cross-functional teams in agile environments to deliver robust product features.
