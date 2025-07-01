@@ -1,24 +1,22 @@
-
-
-### Full Stack Python Developer | Fastapi & DRF Expert | Cloud & DevOps Enthusiast | AI/ML Explorer | Problem Solver
+# Full Stack Python Developer | FastAPI & DRF Expert | Cloud & DevOps Enthusiast | AI/ML Explorer | Problem Solver
 
 ---
 
-Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Python Developer with a passion for creating impactful solutions using **Django**, **FastAPI**, **AWS**, **Machine Learning**, and **DevOps**. I have experience in developing scalable, high-performance applications and working with cutting-edge technologies. I am constantly learning and striving to improve my skills, especially in **Generative AI** and **Cloud Technologies**.
+Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Python Developer passionate about creating impactful solutions using **Django**, **FastAPI**, **AWS**, **Machine Learning**, and **DevOps**. I specialize in building scalable, high-performance applications and continuously improving my skills with cutting-edge technologies. I'm also deeply invested in **Generative AI** and **Cloud Technologies**.
 
 ---
 
 ## 🌐 About Me
-- 🔭 Currently working as a **Full Stack Developer** at [MarsDevs Technologies](https://www.marsdevs.com) and developing Generative AI services using **FastAPI** and **Node.js**, hosted on **AWS**.
-- 🌱 Learning and hands-on **AWS**, **Deep Learning**, and **Generative AI** tools like **LangChain** and **LangGraph**.
+- 🔭 Currently working as a **Full Stack Developer** at [MarsDevs Technologies](https://www.marsdevs.com), developing Generative AI services using **FastAPI** and **Node.js**, hosted on **AWS**.
+- 🌱 Currently learning and exploring **AWS**, **Deep Learning**, and **Generative AI** tools like **LangChain** and **LangGraph**.
 - 💬 Ask me about **Data Structures & Algorithms**, **Django**, **Machine Learning**, and **Cloud Infrastructure**.
-- 📫 You can reach me at: [pandeyvivek203@gmail.com](mailto:pandeyvivek203@gmail.com)
+- 📫 Reach out to me at: [pandeyvivek203@gmail.com](mailto:pandeyvivek203@gmail.com)
 - 🌍 Check out my work: [Capitall.io](https://www.capitall.io) | [Trairoute App](https://apps.apple.com/in/app/trairoute/id6481530765)
 
 ---
 
-## 📄 My Resume
-[View my detailed resume here](https://drive.google.com/file/d/1yfZQ66TSp6RIZl7a8Aj-JN6wZQHQgZLi/view?usp=sharing)
+## 📄 Resume
+[Click here to view my detailed resume](https://drive.google.com/file/d/1yfZQ66TSp6RIZl7a8Aj-JN6wZQHQgZLi/view?usp=sharing)
 
 ---
 
@@ -47,14 +45,14 @@ Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Python Developer with a passion
 
 ## 💼 Experience
 
-### **MarsDevs Technologies** (Oct 2022 – present) | **Full Stack Developer** | Pune, Maharashtra
+### **MarsDevs Technologies** (Oct 2022 – Present) | **Full Stack Developer** | Pune, Maharashtra
 - Developed and deployed **Generative AI services** using **FastAPI** and **Node.js**, hosted on **AWS**.
 - Integrated **RESTful APIs** and built dynamic frontends using **React**, **HTML**, **CSS**, and **JavaScript**.
-- Collaborated across cross-functional teams in agile environments to deliver robust product features.
+- Collaborated with cross-functional teams in agile environments to deliver robust product features.
 
 ### **Hexaview Technologies INC** (Sep 2021 – Sep 2022) | **Software Engineer Intern** | Noida, Uttar Pradesh
-- Worked on **Django Rest Framework** POCs and API development.
-- Designed dynamic webpages with **HTML**, **CSS**, **JavaScript**, and **React**.
+- Contributed to **Django Rest Framework** POCs and API development.
+- Designed dynamic web pages using **HTML**, **CSS**, **JavaScript**, and **React**.
 
 ---
 
@@ -87,4 +85,4 @@ Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Python Developer with a passion
 ---
 
 ### 💬 Fun Fact:
-- I enjoy solving complex problems and building scalable, efficient systems. Whether it's a machine learning model, a full-stack application, or a DevOps pipeline, I love the challenge of making things work seamlessly.
+- I enjoy solving complex problems and building scalable, efficient systems. Whether it's developing a machine learning model, designing a full-stack application, or managing a DevOps pipeline, I thrive on making things work seamlessly.
