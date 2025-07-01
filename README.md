@@ -1,26 +1,89 @@
-![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)<h1 align="center" height="10">Hi 👋, I'm Vivekanand Pandey</h1>
-<h3 align="center">A passionate Django developer and Problem Solver from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENqHmmRXf4eKZsLmSx2E-4odiXy5fLxiLfw&usqp=CAU">
-- 🔭 I’m currently working on [Data Structures and Algorithm](https://www.codingninjas.com/codestudio/profile/059f0966-ef9a-45a7-bec1-2167a14765ce)
+# ![Vivekanand Pandey](https://your-image-link-here.com)
 
-- 🌱 I’m currently learning **AWS,REST framework,Deep Learning**
+### Full Stack Developer | Django Expert | Cloud & DevOps Enthusiast | AI/ML Explorer | Problem Solver
 
-- 👯 I’m looking to collaborate on [Meetups](https://github.com/vivekanand321/Meetups)
+---
 
-- 💬 Ask me about **DSA,Django,Machine Learning**
+Hi 👋, I'm **Vivekanand Pandey**, a Full Stack Developer with a passion for creating impactful solutions using **Django**, **FastAPI**, **AWS**, **Machine Learning**, and **DevOps**. I have experience in developing scalable, high-performance applications and working with cutting-edge technologies. I am constantly learning and striving to improve my skills, especially in **Generative AI** and **Cloud Technologies**.
 
-- 📫 How to reach me **pandeyvivek203@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LpIY6HN7C_zyf7ACKh_KEV_pghUOh-WD/view?usp=sharing](https://drive.google.com/file/d/1LpIY6HN7C_zyf7ACKh_KEV_pghUOh-WD/view?usp=sharing)
+## 🌐 About Me
+- 🔭 Currently working as a **Full Stack Developer** at [MarsDevs Technologies](https://www.marsdevs.com) and developing Generative AI services using **FastAPI** and **Node.js**, hosted on **AWS**.
+- 🌱 Learning about **AWS**, **Deep Learning**, and **Generative AI** tools like **LangChain** and **LangGraph**.
+- 💬 Ask me about **Data Structures & Algorithms**, **Django**, **Machine Learning**, and **Cloud Infrastructure**.
+- 📫 You can reach me at: [pandeyvivek203@gmail.com](mailto:pandeyvivek203@gmail.com)
+- 🌍 Check out my work: [Capitall.io](https://www.capitall.io) | [Trairoute App](https://apps.apple.com/in/app/trairoute/id6481530765)
 
-- ⚡ Hobbies **I am a vocalist at TheCoalMine Band.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivekanand-pandey-b970491b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivekanand-pandey-b970491b0/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pandeyvivek203/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pandeyvivek203/profile" height="30" width="40" /></a>
-</p>
+## 📄 My Resume
+[View my detailed resume here](https://drive.google.com/file/d/1LpIY6HN7C_zyf7ACKh_KEV_pghUOh-WD/view?usp=sharing)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Tech Stack & Tools
+### **Languages & Frameworks:**
+- **Python**, **Java**, **JavaScript**
+- **Django**, **FastAPI**, **Django Rest Framework**, **Node.js**
+- **React**, **HTML/CSS**
+
+### **Databases & Storage:**
+- **PostgreSQL**, **MongoDB**, **MySQL**, **SQLite**
+- **AWS S3**, **GCS**, **Azure Blob Storage**
+
+### **DevOps & Cloud:**
+- **AWS EC2**, **Docker**, **Linux Server Operations**
+- **CI/CD**, **Container Management**
+
+### **AI & Machine Learning:**
+- **OpenAI**, **LangChain**, **LangGraph**, **Grok models**
+- **Numpy**, **Pandas**, **Matplotlib**, **scikit-learn**
+
+### **Version Control & Tools:**
+- **Git**, **GitHub**, **GitLab**, **VS Code**, **Jupyter**, **Postman**, **Swagger**
+
+---
+
+## 💼 Experience
+
+### **MarsDevs Technologies** (Oct 2022 – Present) | **Full Stack Developer** | Pune, Maharashtra
+- Developed and deployed **Generative AI services** using **FastAPI** and **Node.js**, hosted on **AWS**.
+- Integrated **RESTful APIs** and built dynamic frontends using **React**, **HTML**, **CSS**, and **JavaScript**.
+- Collaborated across cross-functional teams in agile environments to deliver robust product features.
+
+### **Hexaview Technologies INC** (Sep 2021 – Sep 2022) | **Software Engineer Intern** | Noida, Uttar Pradesh
+- Worked on **Django Rest Framework** POCs and API development.
+- Designed dynamic webpages with **HTML**, **CSS**, **JavaScript**, and **React**.
+
+---
+
+## 🧑‍💻 Selected Projects
+
+### **Capitall** | Technologies: **Django Rest Framework**, **PostgreSQL**, **AWS S3**, **Stripe**
+- Developed the backend for a **multi-tenant SaaS platform** supporting 100+ organizations.
+- Implemented **asynchronous file processing**, **subscription management**, and **billing integration**.
+
+### **Trairoute** | Technologies: **FastAPI**, **Node.js**, **PostgreSQL**, **LangChain**, **AWS S3**
+- Developed a **multi-agent AI system** for intelligent travel recommendations using **LangChain**, **LangGraph**, and **OpenAI**.
+- Integrated **Stripe** for payments and deployed on **AWS EC2** with Docker.
+
+### **Plumloom FIP** (In Progress)
+- Building a cutting-edge **AI-powered platform** (Details coming soon).
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/vivekanand-pandey-b970491b0/)
+- [GitHub](https://github.com/vivekanand321)
+- [LeetCode](https://leetcode.com/u/vivekanand_pandey/)
+
+---
+
+### 🔧 My Hobbies:
+- Vocalist at **TheCoalMine Band** 🎤
+
+---
+
+### 💬 Fun Fact:
+- I enjoy solving complex problems and building scalable, efficient systems. Whether it's a machine learning model, a full-stack application, or a DevOps pipeline, I love the challenge of making things work seamlessly.
